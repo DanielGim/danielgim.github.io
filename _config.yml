@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "Wisepoeple.net"
 title_separator          : "-"
 subtitle                 : "blog" # site tagline that appears below site title in masthead
-name                     : "SUNG YUP KIM"
-description              : "Daniels github"
+name                     : "Daniel Kim"
+description              : "wisepoeple"
 url                      : "https://danielgim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel"
+  name             : "Wisepoeple"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SUNG YUP KIM"
-  location         : "Su-won"
-  email            : "kimsungyup@icloud.com"
+  bio              : "Any who"
+  location         : "somewhere"
+  email            : "lovekenshin@gmail.com"
   links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
