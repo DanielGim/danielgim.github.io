@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Alphabet practice support"
 date: 2026-01-31 22:54:00 +0900
 categories: ios, app, hangul
 ---
