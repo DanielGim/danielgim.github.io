@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Othello application support"
 date: 2026-01-31 22:58:00 +0900
 categories: ios, app
 ---
