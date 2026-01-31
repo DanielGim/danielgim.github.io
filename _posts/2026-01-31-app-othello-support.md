@@ -45,7 +45,3 @@ Othello Support
 	</ul>
 </div>
 -->
-<div>
-<br />
-Portfolio
-</div>
