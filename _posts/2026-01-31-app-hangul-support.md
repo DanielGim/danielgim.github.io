@@ -1,10 +1,9 @@
 ---
 title: "Hangul write support"
 date: 2026-01-31 22:54:00 +0900
-categories: ios, app, hangul
+categories: ios app hangul
 ---
 
-# hangulSupport
 # 한글 쓰기 연습 for iOS
 
 # function
