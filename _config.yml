@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Wisepoeple"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Any who"
-  location         : "somewhere"
+  bio              : ""
+  location         : "Korea"
   email            : "lovekenshin@gmail.com"
   links:
 #    - label: "Email"
