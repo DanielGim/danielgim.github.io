@@ -45,7 +45,3 @@ categories: ios app hangul
 	</ul>
 </div>
 -->
-<div>
-<br />
-Portfolio
-</div>
